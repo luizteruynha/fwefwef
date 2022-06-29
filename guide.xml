@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TELECINE ACTION SD">
-    <display-name lang="pt">TELECINE ACTION SD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="DISCOVERY CHANNEL SD">
+    <display-name lang="pt">DISCOVERY CHANNEL SD</display-name>
+    <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="TELECINE ACTION HD">
-    <display-name lang="pt">TELECINE ACTION HD</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="TELECINE CULT SD">
-    <display-name lang="pt">TELECINE CULT SD</display-name>
+  <channel id="DISCOVERY CHANNEL FHD">
+    <display-name lang="pt">DISCOVERY CHANNEL FHD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
 </tv>
