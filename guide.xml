@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
+  <channel id="TELECINE ACTION SD">
+    <display-name lang="pt">TELECINE ACTION SD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20220629000000 +0100" stop="20220629235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
-  </programme>
+  <channel id="TELECINE ACTION HD">
+    <display-name lang="pt">TELECINE ACTION HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT SD">
+    <display-name lang="pt">TELECINE CULT SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
 </tv>
